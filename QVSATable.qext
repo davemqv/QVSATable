@@ -1,0 +1,9 @@
+{
+	"name": "QVSATable",
+	"description": "",
+	"icon": "table",
+	"type": "visualization",
+	"version": 1,
+	"preview": "table",
+	"author": "QV"
+}
